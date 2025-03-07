@@ -10,6 +10,9 @@ Programador Júnior com experiência em desenvolvimento web, C#, design gráfico
 ✔ **Design** – Interfaces intuitivas e materiais gráficos  
 ✔ **Suporte Técnico** – Hardware e software  
 ✔ **Excel Avançado** – Fórmulas e automação  
+✔ **Power BI** – Fórmulas e automação  
+✔ **Auto Cad** – Modelos 2D e 3D
+ 
 
 
 ### **Formação**  
