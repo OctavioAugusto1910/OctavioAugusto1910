@@ -6,6 +6,7 @@
 ### **Sobre Mim**  
 Programador Júnior com experiência em desenvolvimento web, C#, design gráfico e suporte técnico. Apaixonado por tecnologia e sempre buscando inovação.  
 
+---
 
 ### **Habilidades**  
 ✔ **Web** – HTML, CSS (layouts responsivos)  
@@ -14,10 +15,12 @@ Programador Júnior com experiência em desenvolvimento web, C#, design gráfico
 ✔ **Suporte Técnico** – Hardware e software  
 ✔ **Excel Avançado** – Fórmulas e automação  
 
+---
 
 ### **Formação**  
-📌 **Técnico em ADS** – Grau *(2024-2026)*  
+📌 **Técnico em ADS** – Grau Técnico *(2024-2026)*  
 
+---
 
 📧 octavioaugusto@gmail.com | 🔗 www.linkedin.com/in/octavioaugusto1910
 
