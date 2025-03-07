@@ -1,5 +1,5 @@
 **Octavio Augusto**  
-📍 Ribeirão das Neves | 📧 octavioaugusto1910@gmail.com | 🔗 www.linkedin.com/in/octavioaugusto1910  
+📍 Ribeirão das Neves | 📧 octavioaugusto1910@gmail.com | 🔗 www.linkedin.com/in/octavioaugusto1910  | 📤 @octaviioaugusto
 
 ### **Sobre Mim**  
 Programador Júnior com experiência em desenvolvimento web, C#, design gráfico e suporte técnico. Apaixonado por tecnologia e sempre buscando inovação.  
