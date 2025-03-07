@@ -1,10 +1,8 @@
 **Octavio Augusto**  
 📍 Ribeirão das Neves | 📧 octavioaugusto1910@gmail.com | 📞 31 983869621 | 🔗 www.linkedin.com/in/octavioaugusto1910  
----
 
 ### **Sobre Mim**  
 Programador Júnior com experiência em desenvolvimento web, C#, design gráfico e suporte técnico. Apaixonado por tecnologia e sempre buscando inovação.  
----
 
 ### **Habilidades**  
 ✔ **Web** – HTML, CSS (layouts responsivos)  
@@ -12,11 +10,11 @@ Programador Júnior com experiência em desenvolvimento web, C#, design gráfico
 ✔ **Design** – Interfaces intuitivas e materiais gráficos  
 ✔ **Suporte Técnico** – Hardware e software  
 ✔ **Excel Avançado** – Fórmulas e automação  
----
+
 
 ### **Formação**  
 📌 **Técnico em ADS** – Grau Técnico *(2024-2026)*  
----
+
 
 📧 octavioaugusto@gmail.com | 🔗 www.linkedin.com/in/octavioaugusto1910
 
